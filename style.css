@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@500&family=Raleway:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to right, #763ff2,#3a169c);
+    font-family: 'Poppins', sans-serif;
+}
+.loginbtn{
+    background-color: #8820fc !important;
+    border: none !important;
+    border-radius: 100px !important;
+    padding: 6x 30px !important;
+    height: 50px;
+    width: 120px;
+}
+button{
+    background-color: #8820fc !important;
+    border: none !important;
+    border-radius: 100px !important;
+    padding: 6x 30px !important;
+}
+.pricing .iconcontainer{
+    margin-bottom: 10px;
+    border: 2px solid white;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pricing{
+    /* font-size: 40px; */
+    color: white;
+}
+#logotxt{
+    font-size: 35px;
+}
+
